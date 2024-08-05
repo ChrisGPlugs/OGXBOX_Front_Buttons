@@ -1,4 +1,8 @@
 Orginal Xbox Front button board. 
+Recreated in KiCad based off the Board design of the Gerbers from Thomas Heath
+Track Layout redesigned to be almost the same as stock on the back.
+All graphics replaced and outline adjusted with curves.
+
 Three options are uploaded.
 1. Has the HDD and LAN leds added to it with locations to add resistors. These are 0603 SMD's 
 2. Is same as stock with the Tracks on the back.
