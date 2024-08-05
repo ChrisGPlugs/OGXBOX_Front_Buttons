@@ -4,7 +4,7 @@ Three options are uploaded.
 2. Is same as stock with the Tracks on the back.
 3. Same as stock but with the layers swapped so the tracks are on the front for if you are worried about tracks getting exposed and shorting things out.
   
-    ![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/ChrisGPlugs/OGXBOX_Front_Buttons/blob/main/XBox%20button%20board/Button%20Board%20with%20HDD%20and%20LAN.png?raw=true))
+    ![alt text](https://github.com/ChrisGPlugs/OGXBOX_Front_Buttons/blob/main/XBox%20button%20board/Button%20Board%20with%20HDD%20and%20LAN.png?raw=true)
 
 I'm considering doing a drawing to have self adhesive vinyl cut. This is to be affixed to the back so that it is the same as stock. 
 I have not found a suitable suplier yet. 
