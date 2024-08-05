@@ -1851,7 +1851,7 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "e7fbb446-84c0-4e53-9be0-f39c9c6a82f3")
-		(at 129.55 114.5)
+		(at 118.3 110.1)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
