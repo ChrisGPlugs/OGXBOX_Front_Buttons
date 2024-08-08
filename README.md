@@ -14,3 +14,12 @@ I've done a drawing to make a self adhesive vinyl sticker. This is to be affixed
 I have not found a suitable suplier yet. 
 
 if I cannot get stickers I will probably use 50mm wide PVC tape on the back of mine and then cut it out with a craft knife or exacto blade
+
+These Tactile switches have the correct measurements.
+https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3F-1000?qs=lK7M36XCk6JQHckSc1xIsg%3D%3D
+https://www.digikey.co.uk/en/products/detail/omron-electronics-inc-emc-div/B3F-1000/33150
+
+The connector that plugs into the motherboard is JST PHD 2mm 10 way connector.
+I bought some of these off ali express. You could solder them on directly or use another suitable connector.
+https://www.aliexpress.com/item/1005005940137789.html?spm=a2g0o.order_list.order_list_main.17.1e5b1802rfvPIm
+
