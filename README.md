@@ -19,7 +19,8 @@ These Tactile switches have the correct measurements.
 https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3F-1000?qs=lK7M36XCk6JQHckSc1xIsg%3D%3D
 https://www.digikey.co.uk/en/products/detail/omron-electronics-inc-emc-div/B3F-1000/33150
 
-The connector that plugs into the motherboard is JST PHD 2mm 10 way connector.
+The connector that plugs into the motherboard is JST PHD 2mm 10 way connector. https://www.jst.co.uk/productSeries.php?pid=88&cat=30
 I bought some of these off ali express. You could solder them on directly or use another suitable connector.
 https://www.aliexpress.com/item/1005005940137789.html?spm=a2g0o.order_list.order_list_main.17.1e5b1802rfvPIm
+
 
