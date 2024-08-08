@@ -15,7 +15,7 @@ I have not found a suitable suplier yet.
 
 if I cannot get stickers I will probably use 50mm wide PVC tape on the back of mine and then cut it out with a craft knife or exacto blade
 
-These Tactile switches have the correct measurements.
+These Tactile switches have the correct measurements. Tact Button Switch 6x6x4.3mm
 https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3F-1000?qs=lK7M36XCk6JQHckSc1xIsg%3D%3D
 https://www.digikey.co.uk/en/products/detail/omron-electronics-inc-emc-div/B3F-1000/33150
 
